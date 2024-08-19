@@ -1,3 +1,3 @@
 ![the logo](static/logo_banner.svg)
 
-# juniperf
+# juniperf: a unified performance testing framework
